@@ -1,0 +1,59 @@
+{
+  "name": "SocialStudy T2 Medium",
+  "description": "The SocialStudy T2 Medium Project",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Q&S",
+    "url": "https://github.com/snowmantw/ss-t2-medium"
+  },
+  "locales": {
+    "ar": {
+      "name": "SocialStudy T2 Medium",
+      "description": "The SocialStudy T2 Medium Project"
+    },
+    "de": {
+      "name": "SocialStudy T2 Medium",
+      "description": "The SocialStudy T2 Medium Project"
+    },
+    "el": {
+      "name": "SocialStudy T2 Medium",
+      "description": "The SocialStudy T2 Medium Project"
+    },
+    "en-US": {
+      "name": "SocialStudy T2 Medium",
+      "description": "The SocialStudy T2 Medium Project"
+    },
+    "es": {
+      "name": "SocialStudy T2 Medium",
+      "description": "The SocialStudy T2 Medium Project"
+    },
+    "fr": {
+      "name": "SocialStudy T2 Medium",
+      "description": "The SocialStudy T2 Medium Project"
+    },
+    "it": {
+      "name": "SocialStudy T2 Medium",
+      "description": "The SocialStudy T2 Medium Project"
+    },
+    "pt-BR": {
+      "name": "SocialStudy T2 Medium",
+      "description": "The SocialStudy T2 Medium Project"
+    },
+    "ru": {
+      "name": "SocialStudy T2 Medium",
+      "description": "The SocialStudy T2 Medium Project"
+    },
+    "tr": {
+      "name": "SocialStudy T2 Medium",
+      "description": "The SocialStudy T2 Medium Project"
+    },
+    "zh-TW": {
+      "name": "SocialStudy T2 Medium",
+      "description": "The SocialStudy T2 Medium Project"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/Blank.png"
+  }
+}
